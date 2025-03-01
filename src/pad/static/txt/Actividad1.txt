@@ -1,84 +1,135 @@
 {
-    "amiibo": [
-        {
-            "amiiboSeries": "Legend Of Zelda",
-            "character": "Zelda",
-            "gameSeries": "The Legend of Zelda",
-            "head": "01010300",
-            "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010300-04140902.png",
-            "name": "Zelda & Loftwing",
-            "release": {
-                "au": "2021-07-16",
-                "eu": "2021-07-16",
-                "jp": "2021-07-16",
-                "na": "2021-07-16"
+    "data": {
+        "mal_id": 989,
+        "url": "https://myanimelist.net/anime/989/Shinshaku_Sengoku_Eiyuu_Densetsu__Sanada_Juu_Yuushi",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/9393.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/9393t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/9393l.jpg"
             },
-            "tail": "04140902",
-            "type": "Figure"
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/9393.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/3/9393t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/3/9393l.webp"
+            }
         },
-        {
-            "amiiboSeries": "Legend Of Zelda",
-            "character": "Zelda",
-            "gameSeries": "The Legend of Zelda",
-            "head": "01010000",
-            "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-03560902.png",
-            "name": "Zelda",
-            "release": {
-                "au": "2017-03-03",
-                "eu": "2017-03-03",
-                "jp": "2017-03-03",
-                "na": "2017-03-03"
-            },
-            "tail": "03560902",
-            "type": "Figure"
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
         },
-        {
-            "amiiboSeries": "Legend Of Zelda",
-            "character": "Zelda",
-            "gameSeries": "The Legend of Zelda",
-            "head": "01010000",
-            "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-03520902.png",
-            "name": "Toon Zelda - The Wind Waker",
-            "release": {
-                "au": "2016-12-03",
-                "eu": "2016-12-02",
-                "jp": "2016-12-01",
-                "na": "2016-12-02"
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi"
             },
-            "tail": "03520902",
-            "type": "Figure"
+            {
+                "type": "Synonym",
+                "title": "New Legend of the Heroes of the Warring Nations - The Ten Sanada Brave Soldiers Sanada 10"
+            },
+            {
+                "type": "Synonym",
+                "title": "Sanada10"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shinshaku Sanada Juuyuushi"
+            },
+            {
+                "type": "Japanese",
+                "title": "新釈 戦国英雄伝説 眞田十勇士"
+            }
+        ],
+        "title": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi",
+        "title_english": null,
+        "title_japanese": "新釈 戦国英雄伝説 眞田十勇士",
+        "title_synonyms": [
+            "New Legend of the Heroes of the Warring Nations - The Ten Sanada Brave Soldiers Sanada 10",
+            "Sanada10",
+            "Shinshaku Sanada Juuyuushi"
+        ],
+        "type": "TV Special",
+        "source": "Original",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2005-01-29T00:00:00+00:00",
+            "to": null,
+            "prop": {
+                "from": {
+                    "day": 29,
+                    "month": 1,
+                    "year": 2005
+                },
+                "to": {
+                    "day": null,
+                    "month": null,
+                    "year": null
+                }
+            },
+            "string": "Jan 29, 2005"
         },
-        {
-            "amiiboSeries": "Legend Of Zelda",
-            "character": "Zelda",
-            "gameSeries": "The Legend of Zelda",
-            "head": "01010000",
-            "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-04190902.png",
-            "name": "Zelda - Tears of the Kingdom",
-            "release": {
-                "au": "2023-11-03",
-                "eu": "2023-11-03",
-                "jp": "2023-11-03",
-                "na": "2023-11-03"
-            },
-            "tail": "04190902",
-            "type": "Figure"
+        "duration": "51 min",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 5.98,
+        "scored_by": 255,
+        "rank": 9995,
+        "popularity": 13885,
+        "members": 1099,
+        "favorites": 2,
+        "synopsis": "In the Fifth Year of the Keicho era, the Tokugawa clan sought to solidify their control of Japan. Hidetada Tokugawa has come to the doorsteps of Ueda Castle with the intentions of having the Sanada clan open its doors to him. But the Sanada and their retainers have other plans... \n\n(Source: ANN)",
+        "background": "",
+        "season": null,
+        "year": null,
+        "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
         },
-        {
-            "amiiboSeries": "Super Smash Bros.",
-            "character": "Zelda",
-            "gameSeries": "The Legend of Zelda",
-            "head": "01010000",
-            "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-000e0002.png",
-            "name": "Zelda",
-            "release": {
-                "au": "2014-12-12",
-                "eu": "2014-12-19",
-                "jp": "2014-12-06",
-                "na": "2014-12-14"
+        "producers": [
+            {
+                "mal_id": 306,
+                "type": "anime",
+                "name": "Magic Capsule",
+                "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+            }
+        ],
+        "licensors": [],
+        "studios": [
+            {
+                "mal_id": 1371,
+                "type": "anime",
+                "name": "T.P.O",
+                "url": "https://myanimelist.net/anime/producer/1371/TPO"
+            }
+        ],
+        "genres": [],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 13,
+                "type": "anime",
+                "name": "Historical",
+                "url": "https://myanimelist.net/anime/genre/13/Historical"
             },
-            "tail": "000e0002",
-            "type": "Figure"
-        }
-    ]
-}{'amiibo': [{'amiiboSeries': 'Legend Of Zelda', 'character': 'Zelda', 'gameSeries': 'The Legend of Zelda', 'head': '01010300', 'image': 'https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010300-04140902.png', 'name': 'Zelda & Loftwing', 'release': {'au': '2021-07-16', 'eu': '2021-07-16', 'jp': '2021-07-16', 'na': '2021-07-16'}, 'tail': '04140902', 'type': 'Figure'}, {'amiiboSeries': 'Legend Of Zelda', 'character': 'Zelda', 'gameSeries': 'The Legend of Zelda', 'head': '01010000', 'image': 'https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-03560902.png', 'name': 'Zelda', 'release': {'au': '2017-03-03', 'eu': '2017-03-03', 'jp': '2017-03-03', 'na': '2017-03-03'}, 'tail': '03560902', 'type': 'Figure'}, {'amiiboSeries': 'Legend Of Zelda', 'character': 'Zelda', 'gameSeries': 'The Legend of Zelda', 'head': '01010000', 'image': 'https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-03520902.png', 'name': 'Toon Zelda - The Wind Waker', 'release': {'au': '2016-12-03', 'eu': '2016-12-02', 'jp': '2016-12-01', 'na': '2016-12-02'}, 'tail': '03520902', 'type': 'Figure'}, {'amiiboSeries': 'Legend Of Zelda', 'character': 'Zelda', 'gameSeries': 'The Legend of Zelda', 'head': '01010000', 'image': 'https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-04190902.png', 'name': 'Zelda - Tears of the Kingdom', 'release': {'au': '2023-11-03', 'eu': '2023-11-03', 'jp': '2023-11-03', 'na': '2023-11-03'}, 'tail': '04190902', 'type': 'Figure'}, {'amiiboSeries': 'Super Smash Bros.', 'character': 'Zelda', 'gameSeries': 'The Legend of Zelda', 'head': '01010000', 'image': 'https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01010000-000e0002.png', 'name': 'Zelda', 'release': {'au': '2014-12-12', 'eu': '2014-12-19', 'jp': '2014-12-06', 'na': '2014-12-14'}, 'tail': '000e0002', 'type': 'Figure'}]}
+            {
+                "mal_id": 38,
+                "type": "anime",
+                "name": "Military",
+                "url": "https://myanimelist.net/anime/genre/38/Military"
+            }
+        ],
+        "demographics": []
+    }
+}{'data': {'mal_id': 989, 'url': 'https://myanimelist.net/anime/989/Shinshaku_Sengoku_Eiyuu_Densetsu__Sanada_Juu_Yuushi', 'images': {'jpg': {'image_url': 'https://cdn.myanimelist.net/images/anime/3/9393.jpg', 'small_image_url': 'https://cdn.myanimelist.net/images/anime/3/9393t.jpg', 'large_image_url': 'https://cdn.myanimelist.net/images/anime/3/9393l.jpg'}, 'webp': {'image_url': 'https://cdn.myanimelist.net/images/anime/3/9393.webp', 'small_image_url': 'https://cdn.myanimelist.net/images/anime/3/9393t.webp', 'large_image_url': 'https://cdn.myanimelist.net/images/anime/3/9393l.webp'}}, 'trailer': {'youtube_id': None, 'url': None, 'embed_url': None, 'images': {'image_url': None, 'small_image_url': None, 'medium_image_url': None, 'large_image_url': None, 'maximum_image_url': None}}, 'approved': True, 'titles': [{'type': 'Default', 'title': 'Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi'}, {'type': 'Synonym', 'title': 'New Legend of the Heroes of the Warring Nations - The Ten Sanada Brave Soldiers Sanada 10'}, {'type': 'Synonym', 'title': 'Sanada10'}, {'type': 'Synonym', 'title': 'Shinshaku Sanada Juuyuushi'}, {'type': 'Japanese', 'title': '新釈 戦国英雄伝説 眞田十勇士'}], 'title': 'Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi', 'title_english': None, 'title_japanese': '新釈 戦国英雄伝説 眞田十勇士', 'title_synonyms': ['New Legend of the Heroes of the Warring Nations - The Ten Sanada Brave Soldiers Sanada 10', 'Sanada10', 'Shinshaku Sanada Juuyuushi'], 'type': 'TV Special', 'source': 'Original', 'episodes': 1, 'status': 'Finished Airing', 'airing': False, 'aired': {'from': '2005-01-29T00:00:00+00:00', 'to': None, 'prop': {'from': {'day': 29, 'month': 1, 'year': 2005}, 'to': {'day': None, 'month': None, 'year': None}}, 'string': 'Jan 29, 2005'}, 'duration': '51 min', 'rating': 'PG-13 - Teens 13 or older', 'score': 5.98, 'scored_by': 255, 'rank': 9995, 'popularity': 13885, 'members': 1099, 'favorites': 2, 'synopsis': 'In the Fifth Year of the Keicho era, the Tokugawa clan sought to solidify their control of Japan. Hidetada Tokugawa has come to the doorsteps of Ueda Castle with the intentions of having the Sanada clan open its doors to him. But the Sanada and their retainers have other plans... \n\n(Source: ANN)', 'background': '', 'season': None, 'year': None, 'broadcast': {'day': None, 'time': None, 'timezone': None, 'string': None}, 'producers': [{'mal_id': 306, 'type': 'anime', 'name': 'Magic Capsule', 'url': 'https://myanimelist.net/anime/producer/306/Magic_Capsule'}], 'licensors': [], 'studios': [{'mal_id': 1371, 'type': 'anime', 'name': 'T.P.O', 'url': 'https://myanimelist.net/anime/producer/1371/TPO'}], 'genres': [], 'explicit_genres': [], 'themes': [{'mal_id': 13, 'type': 'anime', 'name': 'Historical', 'url': 'https://myanimelist.net/anime/genre/13/Historical'}, {'mal_id': 38, 'type': 'anime', 'name': 'Military', 'url': 'https://myanimelist.net/anime/genre/38/Military'}], 'demographics': []}}

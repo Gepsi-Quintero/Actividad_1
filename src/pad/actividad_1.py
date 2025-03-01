@@ -48,8 +48,8 @@ class Actividad1():
 
 
     def leer_api(self, url):
-        # El get()método envía una solicitud de GET a la url especificada.
-        response = requests.get("https://www.amiiboapi.com/api/amiibo/?name=zelda")
+    # El get()método envía una solicitud de GET a la url especificada.
+        response = requests.get("https://api.jikan.moe/v4/anime/989")
         return response.json()
 
 
@@ -71,9 +71,9 @@ class Actividad1():
         return True # booleano True (1) False (0)
 
 ingestion =Actividad1()
-#datos_json = Actividad1.leer_api("https://www.amiiboapi.com/api/amiibo/?name=zelda")
-#"https://www.amiiboapi.com/api/amiibo/?name=zelda"
-datos_json = ingestion.leer_api("https://www.amiiboapi.com/api/amiibo/?name=zelda")
+#datos_json = Actividad1.leer_api("https://api.jikan.moe/v4/anime/989")
+#"https://api.jikan.moe/v4/anime/989"
+datos_json = ingestion.leer_api("https://api.jikan.moe/v4/anime/989")
 print("datos json:",datos_json)
 #if ingestion.escribir_json(nombre_archivo="entrega_actividad1.json",datos=datos_json):
  #   print("se creo el archivo json")
