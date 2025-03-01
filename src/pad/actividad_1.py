@@ -74,7 +74,7 @@ ingestion =Actividad1()
 #datos_json = Actividad1.leer_api("https://api.jikan.moe/v4/anime/989")
 #"https://api.jikan.moe/v4/anime/989"
 datos_json = ingestion.leer_api("https://api.jikan.moe/v4/anime/989")
-print("datos json:",datos_json)
+print("datos json:", datos_json.encode('utf-8'))
 #if ingestion.escribir_json(nombre_archivo="entrega_actividad1.json",datos=datos_json):
  #   print("se creo el archivo json")
 ingestion.escribir_txt("Actividad1.txt",datos_json) 
