@@ -4,7 +4,7 @@
 class Personas():
     def __init__(self):
         # atributos del objeto
-        self.nombre = "Andres" # variable de tipo texto "" ''
+        self.nombre = "GEPSI" # variable de tipo texto "" ''
         self.edad =   0 # variablke de tipo numerico
         self.estatura = 100.0 # variable de tipo decimal
         self.peso    = 35.6 # variable de tipo decimal
