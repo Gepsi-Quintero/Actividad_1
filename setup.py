@@ -9,11 +9,10 @@ setup(
     py_modules=["actividad_1"],
     install_requires=[
         "pandas",
-        "openpyxl"
-        "requests",
-        "matplotlib"
-        "numpy"
-        "seaborn"
+        "matplotlib",
+        "openpyxl",
+        "requests"
+
     ]
     
 )
